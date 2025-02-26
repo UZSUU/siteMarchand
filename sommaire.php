@@ -15,7 +15,7 @@ if (!isset($_SESSION['panier'])) { 			// Si $_SESSION['panier'] n'existe pas.
 </head>
 <body>
 	
-<center><H1>SOMMAIRE</H1>
+<center><H1>SOMMAIRE du site</H1>
 <a href=nike.php><img src=IMG/nike.jpg></a>
 <a href=salomon.php><img src=IMG/salomon.png></a>
 <a href=hoka.php><img src=IMG/hoka.jpg></a>
